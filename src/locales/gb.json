@@ -1892,5 +1892,7 @@
   "yellow": "Yellow",
   "yes": "Yes",
   "yes-caps": "YES",
-  "yield": "Yield"
+  "yield": "Yield",
+  "unfinish-dispatch-check" : "Are you sure you want to change dispatch to not dispatched?",
+  "mark-as-undispatched": "Mark as undispatched"
 }

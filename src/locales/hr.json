@@ -1892,5 +1892,7 @@
   "yellow": "Žuta",
   "yes": "Da",
   "yes-caps": "DA",
-  "yield": "Donos"
+  "yield": "Donos",
+  "unfinish-dispatch-check" : "Jeste li sigurni da želite označiti isporuku kao nije isporučena?",
+  "mark-as-undispatched": "Označi kao nije isporučena"
 }

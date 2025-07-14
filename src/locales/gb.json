@@ -69,6 +69,7 @@
   "analysis-stock-by-division": "Stock by division analysis",
   "analysis-trolley-transport-by-driver": "Trolley transport by driver analysis",
   "analysis-workload": "Workload analysis",
+  "analysis-dispatch": "Dispatch analysis",
   "antenna1": "Antenna 1",
   "antenna2": "Antenna 2",
   "antenna3": "Antenna 3",
@@ -1894,5 +1895,12 @@
   "yes-caps": "YES",
   "yield": "Yield",
   "unfinish-dispatch-check" : "Are you sure you want to change dispatch to not dispatched?",
-  "mark-as-undispatched": "Mark as undispatched"
+  "mark-as-undispatched": "Mark as undispatched",
+  "error-while-removing-destination": "Error while removing destination",
+  "destination-code-already-exists": "Destination code already exists",
+  "new-destination": "New destination",
+  "destination-view": "Destination view",
+  "destinations-management": "Destinations management",
+  "destinations": "Destinations",
+  "invalid-trolley-capacity": "Invalid trolley capacity!"
 }

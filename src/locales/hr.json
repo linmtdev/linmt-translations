@@ -69,6 +69,7 @@
   "analysis-stock-by-division": "Analiza stanja po odjelima",
   "analysis-trolley-transport-by-driver": "Analiza prijevoza kolica po vozačima",
   "analysis-workload": "Analiza radnog opterećenja",
+  "analysis-dispatch": "Analiza isporuka",
   "antenna1": "Antena 1",
   "antenna2": "Antena 2",
   "antenna3": "Antena 3",
@@ -1894,5 +1895,12 @@
   "yes-caps": "DA",
   "yield": "Donos",
   "unfinish-dispatch-check" : "Jeste li sigurni da želite označiti isporuku kao nije isporučena?",
-  "mark-as-undispatched": "Označi kao nije isporučena"
+  "mark-as-undispatched": "Označi kao nije isporučena",
+  "error-while-removing-destination": "Pogreška kod brisanja odredište",
+  "destination-code-already-exists": "Šifra odredišta već postoji",
+  "new-destination": "Novo odredište",
+  "destination-view": "Prikaz odredišta",
+  "destinations-management": "Upravljanje odredištima",
+  "destinations": "Odredišta",
+  "invalid-trolley-capacity": "Nepodržan kapacitet kolica!"
 }

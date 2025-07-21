@@ -1902,5 +1902,6 @@
   "destination-view": "Prikaz odredišta",
   "destinations-management": "Upravljanje odredištima",
   "destinations": "Odredišta",
-  "invalid-trolley-capacity": "Nepodržan kapacitet kolica!"
+  "invalid-trolley-capacity": "Nepodržan kapacitet kolica!",
+  "wrong-ip-format": "Pogrešan format ip adrese skenera"
 }

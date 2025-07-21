@@ -1902,5 +1902,6 @@
   "destination-view": "Destination view",
   "destinations-management": "Destinations management",
   "destinations": "Destinations",
-  "invalid-trolley-capacity": "Invalid trolley capacity!"
+  "invalid-trolley-capacity": "Invalid trolley capacity!",
+  "wrong-ip-format": "Pogrešan format ip adrese skenera"
 }

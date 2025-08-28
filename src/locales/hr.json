@@ -1903,5 +1903,9 @@
   "destinations-management": "Upravljanje odredištima",
   "destinations": "Odredišta",
   "invalid-trolley-capacity": "Nepodržan kapacitet kolica!",
-  "wrong-ip-format": "Pogrešan format ip adrese skenera!"
+  "wrong-ip-format": "Pogrešan format ip adrese skenera!",
+  "scan-rfid-chips": "Skenirajte rfid čipove",
+  "scan-rfid-articles": "Skenirajte rfid artikle",
+  "scan-trolley": "Očitajte kolica",
+  "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška"
 }

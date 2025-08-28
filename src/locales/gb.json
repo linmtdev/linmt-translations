@@ -1903,5 +1903,9 @@
   "destinations-management": "Destinations management",
   "destinations": "Destinations",
   "invalid-trolley-capacity": "Invalid trolley capacity!",
-  "wrong-ip-format": "Scanner IP address format is incorrect!"
+  "wrong-ip-format": "Scanner IP address format is incorrect!",
+  "scan-rfid-chips": "Scan RFID chips",
+  "scan-rfid-articles": "Scan RFID articles",
+  "scan-trolley": "Scan trolley",
+  "no-open-client-facility-inventory": "No open inventories for client facilities"
 }

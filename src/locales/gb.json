@@ -1907,5 +1907,7 @@
   "scan-rfid-chips": "Scan RFID chips",
   "scan-rfid-articles": "Scan RFID articles",
   "scan-trolley": "Scan trolley",
-  "no-open-client-facility-inventory": "No open inventories for client facilities"
+  "no-open-client-facility-inventory": "No open inventories for client facilities",
+  "bilingual-invoices": "Bilingual invoices",
+  "bilingual-invoices-required": "Bilingual invoices required"
 }

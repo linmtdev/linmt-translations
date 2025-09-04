@@ -1907,5 +1907,7 @@
   "scan-rfid-chips": "Skenirajte rfid čipove",
   "scan-rfid-articles": "Skenirajte rfid artikle",
   "scan-trolley": "Očitajte kolica",
-  "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška"
+  "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška",
+  "bilingual-invoices": "Dvojezičnost faktura",
+  "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan"
 }

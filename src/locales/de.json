@@ -1138,7 +1138,7 @@
   "period-start": "Anfang des Zeitraums",
   "period-status": "Abrechnungsstatus",
   "phone-number": "Telefonnummer",
-  "piece-short": "Stk",
+  "piece-short": "stk",
   "pillowcase": "KISSENBEZÜGE",
   "pink": "Rosa",
   "pivot-column-sum": "Spaltensumme",
@@ -1547,7 +1547,7 @@
   "separate-caps": "SEPARAT",
   "separate-stock": "Getrennter Bestand",
   "seperated": "Getrennt",
-  "serNumber": "Lfd. Nr.",
+  "serNumber": "Nr.",
   "server-response-timeout": "Zeitüberschreitung für die Serverantwort auf den Aufruf an:",
   "server-sent-invalid-response": "Der Server hat eine ungültige Antwort gesendet. Bitte informieren Sie den Administrator.",
   "server-temporary-unavailable": "Der Server ist vorübergehend nicht verfügbar. Versuchen Sie, die Seite zu aktualisieren, um das System weiterhin zu verwenden",
@@ -1909,5 +1909,6 @@
   "scan-trolley": "Wagen scannen",
   "no-open-client-facility-inventory": "Keine offenen Inventuren für Kostenstellen",
   "bilingual-invoices": "Zweisprachige Rechnungen",
-  "bilingual-invoices-required": "Eingabe der Zweisprachigkeit von Rechnungen ist obligatorisch"
+  "bilingual-invoices-required": "Eingabe der Zweisprachigkeit von Rechnungen ist obligatorisch",
+  "kom": "stk"
 }

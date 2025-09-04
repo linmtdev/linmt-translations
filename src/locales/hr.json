@@ -1909,5 +1909,6 @@
   "scan-trolley": "Očitajte kolica",
   "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška",
   "bilingual-invoices": "Dvojezičnost faktura",
-  "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan"
+  "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan",
+  "kom": "kom"
 }

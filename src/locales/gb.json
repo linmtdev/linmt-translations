@@ -1909,5 +1909,6 @@
   "scan-trolley": "Scan trolley",
   "no-open-client-facility-inventory": "No open inventories for client facilities",
   "bilingual-invoices": "Bilingual invoices",
-  "bilingual-invoices-required": "Bilingual invoices required"
+  "bilingual-invoices-required": "Bilingual invoices required",
+  "kom": "pcs"
 }

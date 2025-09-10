@@ -1907,5 +1907,8 @@
   "scan-rfid-chips": "Scan RFID chips",
   "scan-rfid-articles": "Scan RFID articles",
   "scan-trolley": "Scan trolley",
-  "no-open-client-facility-inventory": "No open inventories for client facilities"
+  "no-open-client-facility-inventory": "No open inventories for client facilities",
+  "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
+  "trolley_code_not_found": "A trolley with that chip ({{firstParam}}) does not exist!!",
+  "trolley_epc_code_not_found": "A trolley with that identifier ({{firstParam}}) does not exist!!"
 }

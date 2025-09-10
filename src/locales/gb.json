@@ -1563,7 +1563,7 @@
   "services-and-priceList-types-management": "Services and price list types management",
   "services-view": "Services view",
   "session-expired": "Session expired. Login again to continue using the system",
-  "session-expired-due-inactivity": "Vaša sesija je istekla zbog preduge neaktivnosti. Prijavite se ponovo kako bi nastavili koristiti sustav.",
+  "session-expired-due-inactivity": "Your session has expired due inactivity. Login again to continue using the system.",
   "session-message": "Your session has expired due to inactivity. ",
   "set-stock": "Stock of sets",
   "set-stock-overview": "Set stock overview, hierarchically and in total",
@@ -1908,6 +1908,9 @@
   "scan-rfid-articles": "Scan RFID articles",
   "scan-trolley": "Scan trolley",
   "no-open-client-facility-inventory": "No open inventories for client facilities",
+  "bilingual-invoices": "Bilingual invoices",
+  "bilingual-invoices-required": "Bilingual invoices required",
+  "kom": "pcs",
   "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
   "trolley_code_not_found": "A trolley with that chip ({{firstParam}}) does not exist!!",
   "trolley_epc_code_not_found": "A trolley with that identifier ({{firstParam}}) does not exist!!"

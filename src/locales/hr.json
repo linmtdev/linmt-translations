@@ -1908,6 +1908,9 @@
   "scan-rfid-articles": "Očitajte rfid artikle",
   "scan-trolley": "Očitajte kolica",
   "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška",
+  "bilingual-invoices": "Dvojezičnost faktura",
+  "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan",
+  "kom": "kom",
   "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
   "trolley_code_not_found": "A trolley with that chip ({{firstParam}}) does not exist!!",
   "trolley_epc_code_not_found": "A trolley with that identifier ({{firstParam}}) does not exist!!"

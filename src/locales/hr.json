@@ -1911,7 +1911,7 @@
   "bilingual-invoices": "Dvojezičnost faktura",
   "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan",
   "kom": "kom",
-  "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
-  "trolley_code_not_found": "A trolley with that chip ({{firstParam}}) does not exist!!",
-  "trolley_epc_code_not_found": "A trolley with that identifier ({{firstParam}}) does not exist!!"
+  "epc_trolley_aleady_exists": "Očitani EPC kod ({{firstParam}}) je već pridodjeljen kolicima: {{secondParam}} !",
+  "trolley_code_not_found": "Kolica s tim čipom ({{firstParam}}) ne postoje!!",
+  "trolley_epc_code_not_found": "Kolica s tim identifikatorom ({{firstParam}}) ne postoje!!"
 }

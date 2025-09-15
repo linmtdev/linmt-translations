@@ -1912,6 +1912,11 @@
   "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan",
   "kom": "kom",
   "epc_trolley_aleady_exists": "Očitani EPC kod ({{firstParam}}) je već pridodjeljen kolicima: {{secondParam}} !",
-  "trolley_code_not_found": "Kolica s tim čipom ({{firstParam}}) ne postoje!!",
-  "trolley_epc_code_not_found": "Kolica s tim identifikatorom ({{firstParam}}) ne postoje!!"
+  "trolley_code_not_found": "Kolica s tim identifikatorom ({{firstParam}}) ne postoje!!",
+  "trolley_epc_code_not_found": "Kolica s tim čipom ({{firstParam}}) ne postoje!!",
+  "clean-data": "Očisti podatke",
+  "scan-trolley-epc-code": "Očitajte epc šifru kolica",
+  "register-non-rfid-trolley": "ili registrirajte nova kolica bez RFID",
+  "select-trolley-type": "Odaberite tip kolica",
+  "scan-epc-for-trolley-update": "Očitajte čip kako bi ga pridodjelili kolicima"
 }

@@ -1912,6 +1912,11 @@
   "bilingual-invoices-required": "Bilingual invoices required",
   "kom": "pcs",
   "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
-  "trolley_code_not_found": "A trolley with that chip ({{firstParam}}) does not exist!!",
-  "trolley_epc_code_not_found": "A trolley with that identifier ({{firstParam}}) does not exist!!"
+  "trolley_code_not_found": "A trolley with that code ({{firstParam}}) does not exist!!",
+  "trolley_epc_code_not_found": "A trolley with that epc code ({{firstParam}}) does not exist!!",
+  "clean-data": "Clean all data",
+  "scan-trolley-epc-code": "Scan the trolley EPC code",
+  "register-non-rfid-trolley": "or register a new trolley without RFID",
+  "select-trolley-type": "Select the trolley type",
+  "scan-epc-for-trolley-update": "Scan the chip to assign it to the trolley"
 }

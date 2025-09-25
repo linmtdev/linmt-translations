@@ -1919,5 +1919,6 @@
   "register-non-rfid-trolley": "or register a new trolley without RFID",
   "select-trolley-type": "Select the trolley type",
   "scan-epc-for-trolley-update": "Scan the chip to assign it to the trolley",
-  "scan-articles-and-trolleys": "Scan articles and trolleys"
+  "scan-articles-and-trolleys": "Scan articles and trolleys",
+  "clear-trolley-on-delivery": "Clear trolley on delivery"
 }

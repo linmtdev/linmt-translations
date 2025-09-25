@@ -1919,5 +1919,6 @@
   "register-non-rfid-trolley": "ili registrirajte nova kolica bez RFID",
   "select-trolley-type": "Odaberite tip kolica",
   "scan-epc-for-trolley-update": "Očitajte čip kako bi ga pridodjelili kolicima",
-  "scan-articles-and-trolleys": "Očitajte artikle i kolica"
+  "scan-articles-and-trolleys": "Očitajte artikle i kolica",
+  "clear-trolley-on-delivery": "Isprazni kolica nakon dostave"
 }

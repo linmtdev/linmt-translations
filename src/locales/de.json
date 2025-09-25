@@ -1910,5 +1910,6 @@
   "no-open-client-facility-inventory": "Keine offenen Inventuren für Kostenstellen",
   "bilingual-invoices": "Zweisprachige Rechnungen",
   "bilingual-invoices-required": "Eingabe der Zweisprachigkeit von Rechnungen ist obligatorisch",
-  "kom": "stk"
+  "kom": "stk",
+  "clear-trolley-on-delivery": "Leerer Wagen bei Lieferung"
 }

@@ -1908,8 +1908,7 @@
   "scan-rfid-articles": "Scan RFID articles",
   "scan-trolley": "Scan trolley",
   "no-open-client-facility-inventory": "No open inventories for client facilities",
-  "bilingual-invoices": "Bilingual invoices",
-  "bilingual-invoices-required": "Bilingual invoices input required",
+  "bilingual-documents": "Bilingual documents",
   "kom": "pcs",
   "epc_trolley_aleady_exists": "The scanned EPC code ({{firstParam}}) is already assigned to trolley: {{secondParam}}!",
   "trolley_code_not_found": "A trolley with that code ({{firstParam}}) does not exist!!",
@@ -1920,5 +1919,6 @@
   "select-trolley-type": "Select the trolley type",
   "scan-epc-for-trolley-update": "Scan the chip to assign it to the trolley",
   "scan-articles-and-trolleys": "Scan articles and trolleys",
-  "clear-trolley-on-delivery": "Clear trolley on delivery"
+  "clear-trolley-on-delivery": "Clear trolley on delivery",
+  "trolley-stock-by-location-last-two-years": "Trolley inventory by location (last 2 years)"
 }

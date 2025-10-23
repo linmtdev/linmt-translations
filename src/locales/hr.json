@@ -1908,8 +1908,7 @@
   "scan-rfid-articles": "Očitajte rfid artikle",
   "scan-trolley": "Očitajte kolica",
   "no-open-client-facility-inventory": "Nema otvorenih inventura za mjesta troška",
-  "bilingual-invoices": "Dvojezičnost faktura",
-  "bilingual-invoices-required": "Unos dvojezičnosti faktura obavezan",
+  "bilingual-documents": "Dvojezičnost dokumenata",
   "kom": "kom",
   "epc_trolley_aleady_exists": "Očitani EPC kod ({{firstParam}}) je već pridodjeljen kolicima: {{secondParam}} !",
   "trolley_code_not_found": "Kolica s tim identifikatorom ({{firstParam}}) ne postoje!!",
@@ -1920,5 +1919,6 @@
   "select-trolley-type": "Odaberite tip kolica",
   "scan-epc-for-trolley-update": "Očitajte čip kako bi ga pridodjelili kolicima",
   "scan-articles-and-trolleys": "Očitajte artikle i kolica",
-  "clear-trolley-on-delivery": "Isprazni kolica nakon dostave"
+  "clear-trolley-on-delivery": "Isprazni kolica nakon dostave",
+  "trolley-stock-by-location-last-two-years": "Zaliha kolica po lokacijama (unazad 2 godine)"
 }

@@ -1910,6 +1910,18 @@
   "no-open-client-facility-inventory": "Keine offenen Inventuren für Kostenstellen",
   "bilingual-documents": "Zweisprachige Dokumenten",
   "kom": "stk",
+  "epc_trolley_already_exists": "Der gelesene EPC-Code ({{firstParam}}) ist bereits dem Wagen {{secondParam}} zugeordnet!",
+  "trolley-code-not-found": "Ein Wagen mit diesem Identifikator ({{firstParam}}) existiert nicht!",
+  "trolley-epc-code-not-found": "Ein Wagen mit diesem Chip ({{firstParam}}) existiert nicht!",
+  "clean-data": "Daten löschen",
+  "scan-trolley-epc-code": "Scannen Sie den EPC-Code des Wagens",
+  "register-non-rfid-trolley": "oder registrieren Sie einen neuen Wagen ohne RFID",
+  "select-trolley-type": "Wagentyp auswählen",
+  "scan-epc-for-trolley-update": "Scannen Sie den Chip, um ihn dem Wagen zuzuordnen",
+  "scan-articles-and-trolleys": "Artikel/Wagen scannen",
   "clear-trolley-on-delivery": "Leerer Wagen bei Lieferung",
+  "non-rfid-trolley-disabled": "Es ist nicht möglich, einen Wagen ohne EPC-Code zum Dokument hinzuzufügen",
+  "trolley-data-error": "Fehler beim Senden der Wagendaten",
+  "back-to-packaging": "Zurück zur Verpackung",
   "trolley-stock-by-location-last-two-years": "Wäschewagen nach Standorten (letzte 2 Jahre)"
 }

@@ -1924,6 +1924,13 @@
   "trolley-data-error": "Fehler beim Senden der Wagendaten",
   "back-to-packaging": "Zurück zur Verpackung",
   "trolley-stock-by-location-last-two-years": "Wäschewagen nach Standorten (letzte 2 Jahre)",
-  "new-content": "Neuer Inhalt"
-
+  "new-content": "Neuer Inhalt",
+  "employee-code": "Mitarbeitercode",
+  "employee-code-required": "Mitarbeitercode erforderlich",
+  "operator-missing-oib-or-employee-code": "Operator fehlt OIB oder Code",
+  "discount-type": "Rabattart",
+  "charge-type": "Zuschlagsart",
+  "negative-percentage-value-discount-type-required": "Bei negativem Prozentwert ('Anteil am Preis') muss der Rabatt-Typ ausgewählt werden.",
+  "positive-percentage-value-charge-type-required": "Bei null oder positivem Prozentwert ('Anteil am Preis') muss der Aufschlag-Typ ausgewählt werden.",
+  "product-classification": "Produktklassifizierung (KPD)"
 }

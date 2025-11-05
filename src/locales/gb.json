@@ -1924,5 +1924,13 @@
   "trolley-data-error": "Error while sending trolley data",
   "back-to-packaging": "Back to packaging",
   "trolley-stock-by-location-last-two-years": "Trolley inventory by location (last 2 years)",
-  "new-content": "New content"
+  "new-content": "New content",
+  "employee-code": "Employee code",
+  "employee-code-required": "Employee code required",
+  "operator-missing-oib-or-employee-code": "Operator missing OIB or code",
+  "discount-type": "Discount type",
+  "charge-type": "Charge type",
+  "negative-percentage-value-discount-type-required": "For negative percentage value ('Price percentage') discount type must be selected.",
+  "positive-percentage-value-charge-type-required": "For zero or positive percentage value ('Price percentage') charge type must be selected.",
+  "product-classification": "Product classification (KPD)"
 }

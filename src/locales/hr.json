@@ -1924,5 +1924,13 @@
   "trolley-data-error": "Greška prilikom slanja podataka o kolicima",
   "back-to-packaging": "Povratak na pakiranje",
   "trolley-stock-by-location-last-two-years": "Zaliha kolica po lokacijama (unazad 2 godine)",
-  "new-content": "Novi sadržaj"
+  "new-content": "Novi sadržaj",
+  "employee-code": "Šifra zaposlenika",
+  "employee-code-required": "Šifra zaposlenika je obavezna",
+  "operator-missing-oib-or-employee-code": "Operateru nedostaje OIB ili šifra",
+  "discount-type": "Vrsta popusta",
+  "charge-type": "Vrsta doplate",
+  "negative-percentage-value-discount-type-required": "Za negativnu postotnu vrijednost ('Udio cijene') mora biti odabrana vrsta popusta.",
+  "positive-percentage-value-charge-type-required": "Za nultu ili pozitivnu postotnu vrijednost ('Udio cijene') mora biti odabrana vrsta doplate.",
+  "product-classification": "Klasifikacija po djelatnosti (KPD)"
 }

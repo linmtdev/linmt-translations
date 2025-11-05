@@ -1923,5 +1923,6 @@
   "non-rfid-trolley-disabled": "It is not possible to add a trolley without an EPC code to the document",
   "trolley-data-error": "Error while sending trolley data",
   "back-to-packaging": "Back to packaging",
-  "trolley-stock-by-location-last-two-years": "Trolley inventory by location (last 2 years)"
+  "trolley-stock-by-location-last-two-years": "Trolley inventory by location (last 2 years)",
+  "new-content": "New content"
 }

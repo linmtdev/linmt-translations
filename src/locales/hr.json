@@ -1923,5 +1923,6 @@
   "non-rfid-trolley-disabled": "Nije moguće dodati kolica bez EPC koda na dokument",
   "trolley-data-error": "Greška prilikom slanja podataka o kolicima",
   "back-to-packaging": "Povratak na pakiranje",
-  "trolley-stock-by-location-last-two-years": "Zaliha kolica po lokacijama (unazad 2 godine)"
+  "trolley-stock-by-location-last-two-years": "Zaliha kolica po lokacijama (unazad 2 godine)",
+  "new-content": "Novi sadržaj"
 }

@@ -1923,5 +1923,7 @@
   "non-rfid-trolley-disabled": "Es ist nicht möglich, einen Wagen ohne EPC-Code zum Dokument hinzuzufügen",
   "trolley-data-error": "Fehler beim Senden der Wagendaten",
   "back-to-packaging": "Zurück zur Verpackung",
-  "trolley-stock-by-location-last-two-years": "Wäschewagen nach Standorten (letzte 2 Jahre)"
+  "trolley-stock-by-location-last-two-years": "Wäschewagen nach Standorten (letzte 2 Jahre)",
+  "new-content": "Neuer Inhalt"
+
 }

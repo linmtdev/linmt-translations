@@ -1927,7 +1927,7 @@
   "new-content": "New content",
   "employee-code": "Employee code",
   "employee-code-required": "Employee code required",
-  "operator-missing-oib-or-employee-code": "Operator missing OIB or code",
+  "operator-missing-oib-or-employee-code": "Operator missing OIB or employee code",
   "discount-type": "Discount type",
   "charge-type": "Charge type",
   "negative-percentage-value-discount-type-required": "For negative percentage value ('Price percentage') discount type must be selected.",

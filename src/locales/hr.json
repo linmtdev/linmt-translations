@@ -1927,7 +1927,7 @@
   "new-content": "Novi sadržaj",
   "employee-code": "Šifra zaposlenika",
   "employee-code-required": "Šifra zaposlenika je obavezna",
-  "operator-missing-oib-or-employee-code": "Operateru nedostaje OIB ili šifra",
+  "operator-missing-oib-or-employee-code": "Operateru nedostaje OIB ili šifra zaposlenika",
   "discount-type": "Vrsta popusta",
   "charge-type": "Vrsta doplate",
   "negative-percentage-value-discount-type-required": "Za negativnu postotnu vrijednost ('Udio cijene') mora biti odabrana vrsta popusta.",

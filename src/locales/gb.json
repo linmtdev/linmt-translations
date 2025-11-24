@@ -1927,10 +1927,13 @@
   "new-content": "New content",
   "employee-code": "Employee code",
   "employee-code-required": "Employee code required",
-  "operator-missing-oib-or-employee-code": "Operator missing OIB or employee code",
+  "operator-missing-oib-or-employee-code": "Operator/approver missing OIB or employee code",
   "discount-type": "Discount type",
   "charge-type": "Charge type",
   "negative-percentage-value-discount-type-required": "For negative percentage value ('Price percentage') discount type must be selected.",
   "positive-percentage-value-charge-type-required": "For zero or positive percentage value ('Price percentage') charge type must be selected.",
-  "product-classification": "Product classification (KPD)"
+  "product-classification": "Product classification (KPD)",
+  "operator-missing-signature" : "Operator/approver is missing a signature",
+  "invoice-period-cannot-be-removed-newer-started-periods-exist": "Selected invoice period can't be removed, there are currently newer periods that are started!",
+  "invoice-period-cannot-be-locked-older-started-periods-exist": "Selected invoice period can't be locked, there are currently older periods that are started!"
 }

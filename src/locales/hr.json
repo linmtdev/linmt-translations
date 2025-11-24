@@ -1927,10 +1927,13 @@
   "new-content": "Novi sadržaj",
   "employee-code": "Šifra zaposlenika",
   "employee-code-required": "Šifra zaposlenika je obavezna",
-  "operator-missing-oib-or-employee-code": "Operateru nedostaje OIB ili šifra zaposlenika",
+  "operator-missing-oib-or-employee-code": "Operateru/odobravatelju nedostaje OIB ili šifra zaposlenika",
   "discount-type": "Vrsta popusta",
   "charge-type": "Vrsta doplate",
   "negative-percentage-value-discount-type-required": "Za negativnu postotnu vrijednost ('Udio cijene') mora biti odabrana vrsta popusta.",
   "positive-percentage-value-charge-type-required": "Za nultu ili pozitivnu postotnu vrijednost ('Udio cijene') mora biti odabrana vrsta doplate.",
-  "product-classification": "Klasifikacija po djelatnosti (KPD)"
+  "product-classification": "Klasifikacija po djelatnosti (KPD)",
+  "operator-missing-signature" : "Operateru/odobravatelju nedostaje potpis",
+  "invoice-period-cannot-be-removed-newer-started-periods-exist": "Odabrani obračunski period nije moguće obrisati, postoje noviji obračunski periodi koji su započeti!",
+  "invoice-period-cannot-be-locked-older-started-periods-exist": "Odabrani obračunski period nije moguće zaključiti, postoje stariji obračunski periodi koji su započeti!"
 }

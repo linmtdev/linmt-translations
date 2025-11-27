@@ -1935,5 +1935,7 @@
   "product-classification": "Product classification (KPD)",
   "operator-missing-signature" : "Operator/approver is missing a signature",
   "invoice-period-cannot-be-removed-newer-started-periods-exist": "Selected invoice period can't be removed, there are currently newer periods that are started!",
-  "invoice-period-cannot-be-locked-older-started-periods-exist": "Selected invoice period can't be locked, there are currently older periods that are started!"
+  "invoice-period-cannot-be-locked-older-started-periods-exist": "Selected invoice period can't be locked, there are currently older periods that are started!",
+  "issue-date-and-time": "Issue date and time",
+  "service-missing-product-classification": "Service '{{firstParam}}' does not have defined product classification!"
 }

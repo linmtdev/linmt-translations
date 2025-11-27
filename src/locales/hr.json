@@ -1935,5 +1935,7 @@
   "product-classification": "Klasifikacija po djelatnosti (KPD)",
   "operator-missing-signature" : "Operateru/odobravatelju nedostaje potpis",
   "invoice-period-cannot-be-removed-newer-started-periods-exist": "Odabrani obračunski period nije moguće obrisati, postoje noviji obračunski periodi koji su započeti!",
-  "invoice-period-cannot-be-locked-older-started-periods-exist": "Odabrani obračunski period nije moguće zaključiti, postoje stariji obračunski periodi koji su započeti!"
+  "invoice-period-cannot-be-locked-older-started-periods-exist": "Odabrani obračunski period nije moguće zaključiti, postoje stariji obračunski periodi koji su započeti!",
+  "issue-date-and-time": "Datum i vrijeme izdavanja",
+  "service-missing-product-classification": "Usluga '{{firstParam}}' nema definiranu klasifikaciju proizvoda!"
 }

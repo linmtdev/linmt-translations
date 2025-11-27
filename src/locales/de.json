@@ -1935,5 +1935,7 @@
   "product-classification": "Produktklassifizierung (KPD)",
   "operator-missing-signature" : "Operator/genehmiger fehlt die Unterschrift",
   "invoice-period-cannot-be-removed-newer-started-periods-exist": "Der ausgewählte Rechnungszeitraum kann nicht entfernt werden, da aktuell neuere Zeiträume begonnen haben!",
-  "invoice-period-cannot-be-locked-older-started-periods-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da derzeit ältere Zeiträume begonnen haben!"
+  "invoice-period-cannot-be-locked-older-started-periods-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da derzeit ältere Zeiträume begonnen haben!",
+  "issue-date-and-time": "Ausgabedatum und uhrzeit",
+  "service-missing-product-classification": "Dienstleistung '{{firstParam}}' hat keine definierte Produktklassifizierung!"
 }

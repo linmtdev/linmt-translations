@@ -1937,5 +1937,8 @@
   "invoice-period-cannot-be-removed-newer-started-periods-exist": "Der ausgewählte Rechnungszeitraum kann nicht entfernt werden, da aktuell neuere Zeiträume begonnen haben!",
   "invoice-period-cannot-be-locked-older-started-periods-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da derzeit ältere Zeiträume begonnen haben!",
   "issue-date-and-time": "Ausgabedatum und uhrzeit",
-  "service-missing-product-classification": "Dienstleistung '{{firstParam}}' hat keine definierte Produktklassifizierung!"
+  "service-missing-product-classification": "Dienstleistung '{{firstParam}}' hat keine definierte Produktklassifizierung!",
+  "external-document": "Externes dokument",
+  "article-domain": "Artikeldomäne",
+  "article-owner": "Artikelinhaber"
 }

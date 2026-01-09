@@ -1940,5 +1940,6 @@
   "service-missing-product-classification": "Dienstleistung '{{firstParam}}' hat keine definierte Produktklassifizierung!",
   "external-document": "Externes dokument",
   "article-domain": "Artikeldomäne",
-  "article-owner": "Artikelinhaber"
+  "article-owner": "Artikelinhaber",
+  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da die Rechnungen des letzten Jahres noch vorhanden sind! Der Rechnungszeitraum muss zuerst entfernt und dann ein neuer begonnen werden."
 }

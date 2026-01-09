@@ -1940,5 +1940,6 @@
   "service-missing-product-classification": "Service '{{firstParam}}' does not have defined product classification!",
   "external-document": "External document",
   "article-domain": "Article domain",
-  "article-owner": "Article owner"
+  "article-owner": "Article owner",
+  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Selected invoice period can't be locked, the last year invoices exist! Invoice period needs to be removed first and then new one started."
 }

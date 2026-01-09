@@ -1940,5 +1940,6 @@
   "service-missing-product-classification": "Usluga '{{firstParam}}' nema definiranu klasifikaciju proizvoda!",
   "external-document": "Vanjski dokument",
   "article-domain": "Domena artikala",
-  "article-owner": "Vlasnik artikla"
+  "article-owner": "Vlasnik artikla",
+  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Odabrani obračunski period nije moguće zaključiti zato jer sadrži fakture iz prošle godine! Potrebno je obrisati obračunski period i započeti novi."
 }

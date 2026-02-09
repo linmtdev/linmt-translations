@@ -1941,5 +1941,8 @@
   "external-document": "Externes dokument",
   "article-domain": "Artikeldomäne",
   "article-owner": "Artikelinhaber",
-  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da die Rechnungen des letzten Jahres noch vorhanden sind! Der Rechnungszeitraum muss zuerst entfernt und dann ein neuer begonnen werden."
+  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da die Rechnungen des letzten Jahres noch vorhanden sind! Der Rechnungszeitraum muss zuerst entfernt und dann ein neuer begonnen werden.",
+  "additional-profit-centers": "Zusätzliche Profitzentren",
+  "profit-center-already-selected": "Profitzentr bereits ausgewählt",
+  "profit-center-already-selected-as-primary": "Profitzentr bereits als primär ausgewählt"
 }

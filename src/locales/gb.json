@@ -1941,5 +1941,8 @@
   "external-document": "External document",
   "article-domain": "Article domain",
   "article-owner": "Article owner",
-  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Selected invoice period can't be locked, the last year invoices exist! Invoice period needs to be removed first and then new one started."
+  "invoice-period-cannot-be-locked-last-year-invoices-exist": "Selected invoice period can't be locked, the last year invoices exist! Invoice period needs to be removed first and then new one started.",
+  "additional-profit-centers": "Additional profit centers",
+  "profit-center-already-selected": "Profit center already selected",
+  "profit-center-already-selected-as-primary": "Profit center already selected as primary"
 }

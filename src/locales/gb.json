@@ -1944,5 +1944,18 @@
   "invoice-period-cannot-be-locked-last-year-invoices-exist": "Selected invoice period can't be locked, the last year invoices exist! Invoice period needs to be removed first and then new one started.",
   "additional-profit-centers": "Additional profit centers",
   "profit-center-already-selected": "Profit center already selected",
-  "profit-center-already-selected-as-primary": "Profit center already selected as primary"
+  "profit-center-already-selected-as-primary": "Profit center already selected as primary",
+  "truck-capacity": "Truck capacity",
+  "truck-capacities": "Truck capacities",
+  "truck-capacity-group": "Truck capacity group",
+  "truck-capacity-groups": "Truck capacity groups",
+  "new-truck-capacity": "New truck capacity",
+  "new-truck-capacity-group": "New truck capacity group",
+  "truck-capacity-required": "Truck capacity required",
+  "truck-capacity-group-required": "Truck capacity group required",
+  "error-while-removing-truck-capacity": "Error while removing truck capacity",
+  "error-while-removing-truck-capacity-group": "Error while removing truck capacity group",
+  "truck-capacity-view": "Truck capacity view",
+  "truck-capacity-groups-view": "Truck capacity groups view",
+  "half-month": "Half month"
 }

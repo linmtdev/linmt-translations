@@ -1944,5 +1944,18 @@
   "invoice-period-cannot-be-locked-last-year-invoices-exist": "Der ausgewählte Rechnungszeitraum kann nicht gesperrt werden, da die Rechnungen des letzten Jahres noch vorhanden sind! Der Rechnungszeitraum muss zuerst entfernt und dann ein neuer begonnen werden.",
   "additional-profit-centers": "Zusätzliche Profitzentren",
   "profit-center-already-selected": "Profitzentr bereits ausgewählt",
-  "profit-center-already-selected-as-primary": "Profitzentr bereits als primär ausgewählt"
+  "profit-center-already-selected-as-primary": "Profitzentr bereits als primär ausgewählt",
+  "truck-capacity": "LKW-Kapazität",
+  "truck-capacities": "LKW-Kapazitäten",
+  "truck-capacity-group": "LKW-Kapazitätsgruppe",
+  "truck-capacity-groups": "LKW-Kapazitätsgruppen",
+  "new-truck-capacity": "Neue LKW-Kapazität",
+  "new-truck-capacity-group": "Neue LKW-Kapazitätsgruppe",
+  "truck-capacity-required": "LKW-Kapazität erforderlich",
+  "truck-capacity-group-required": "LKW-Kapazitätsgruppe erforderlich",
+  "error-while-removing-truck-capacity": "Fehler beim Entfernen der LKW-Kapazität",
+  "error-while-removing-truck-capacity-group": "Fehler beim Entfernen der LKW-Kapazitätsgruppe",
+  "truck-capacity-view": "Ansicht der LKW-Kapazität",
+  "truck-capacity-groups-view": "Ansicht der LKW-Kapazitätsgruppen",
+  "half-month": "Halber Monat"
 }

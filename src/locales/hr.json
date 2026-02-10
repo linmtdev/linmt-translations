@@ -1944,5 +1944,18 @@
   "invoice-period-cannot-be-locked-last-year-invoices-exist": "Odabrani obračunski period nije moguće zaključiti zato jer sadrži fakture iz prošle godine! Potrebno je obrisati obračunski period i započeti novi.",
   "additional-profit-centers": "Dodatni profit centri",
   "profit-center-already-selected": "Profitni centar je već odabran",
-  "profit-center-already-selected-as-primary": "Profitni centar je već odabran kao primarni"
+  "profit-center-already-selected-as-primary": "Profitni centar je već odabran kao primarni",
+  "truck-capacity": "Kapacitet kamiona",
+  "truck-capacities": "Kapaciteti kamiona",
+  "truck-capacity-group": "Grupa kapaciteta kamiona",
+  "truck-capacity-groups": "Grupe kapaciteta kamiona",
+  "new-truck-capacity": "Novi kapacitet kamiona",
+  "new-truck-capacity-group": "Nova grupa kapaciteta kamiona",
+  "truck-capacity-required": "Kapacitet kamiona je obavezan",
+  "truck-capacity-group-required": "Grupa kapaciteta kamiona je obavezna",
+  "error-while-removing-truck-capacity": "Greška prilikom brisanja kapaciteta kamiona",
+  "error-while-removing-truck-capacity-group": "Greška prilikom brisanja grupe kapaciteta kamiona",
+  "truck-capacity-view": "Pregled kapaciteta kamiona",
+  "truck-capacity-groups-view": "Pregled grupa kapaciteta kamiona",
+  "half-month": "Polumjesečni"
 }

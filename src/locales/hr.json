@@ -1942,7 +1942,7 @@
   "article-domain": "Domena artikala",
   "article-owner": "Vlasnik artikla",
   "invoice-period-cannot-be-locked-last-year-invoices-exist": "Odabrani obračunski period nije moguće zaključiti zato jer sadrži fakture iz prošle godine! Potrebno je obrisati obračunski period i započeti novi.",
-  "additional-profit-centers": "Dodatni profit centri",
+  "additional-profit-centers": "Dodatni profitni centri",
   "profit-center-already-selected": "Profitni centar je već odabran",
   "profit-center-already-selected-as-primary": "Profitni centar je već odabran kao primarni",
   "truck-capacity": "Kapacitet kamiona",

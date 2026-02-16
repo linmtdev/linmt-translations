@@ -77,7 +77,7 @@
   "app-closed-incorrectly": "Izgleda da se aplikacija nije normalno zaustavila. Molimo pošaljite logove na server preko ekrana s postavkama aplikacije.",
   "application-will-restart-due-inactivity": "Aplikacija će se ponovno pokrenuti zbog neaktivnosti.",
   "approved-discount": "Odobreni rabat (%)",
-  "are-you-sure-you-want-to-delete-documents": "Jeste li sigurni da želite obrisati dokumente?",
+  "are-you-sure-you-want-to-return-document": "Jeste li sigurni da želite razdužit dokument?",
   "are-you-sure-you-want-to-delete-scanned-chips": "Jeste li sigurni da želite obrisati skenirane čipove?",
   "are-you-sure-you-want-to-remove-all-articles-from-trolley": "Jeste li sigurni da želite ukloniti sve artikle s kolica!",
   "are-you-sure-you-want-to-remove-this-document": "Jeste li sigurni da želite obrisati ovaj dokument?",

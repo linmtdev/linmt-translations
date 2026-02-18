@@ -1958,5 +1958,6 @@
   "truck-capacity-view": "Pregled kapaciteta kamiona",
   "truck-capacity-groups-view": "Pregled grupa kapaciteta kamiona",
   "half-month": "Polumjesečni",
-  "no-article-stock-data": "Nema podataka o zalihama artikala"
+  "no-article-stock-data": "Nema podataka o zalihama artikala",
+  "reload-translations": "Ponovno učitaj prijevode"
 }

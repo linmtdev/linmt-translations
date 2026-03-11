@@ -1646,6 +1646,7 @@
   "surface": "Surface",
   "table-for-packaging": "Table for packaging",
   "table-scanner": "Table scanner",
+  "table-scanner-r700": "Table scanner (R700)",
   "tablecloth": "TABLECLOTHS",
   "tablerunner": "TABLE RUNNERS",
   "tags-on-different-documents": "Tags on different documents: '{{firstParam}}'\n",

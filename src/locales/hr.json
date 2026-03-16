@@ -1960,5 +1960,9 @@
   "truck-capacity-groups-view": "Pregled grupa kapaciteta kamiona",
   "half-month": "Polumjesečni",
   "no-article-stock-data": "Nema podataka o zalihama artikala",
-  "reload-translations": "Ponovno učitaj prijevode"
+  "reload-translations": "Ponovno učitaj prijevode",
+  "open-cf-inventory": "Otvorene inventure MT-a",
+  "return-document": "Razduživanje",
+  "enter-trolley-code": "ili upišite šifru kolica za primopredaju",
+  "add-empty-trolley": "Dodajte prazna kolica za primopredaju pritiskom na gumb u donjem desnom uglu"
 }

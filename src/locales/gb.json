@@ -1960,5 +1960,9 @@
   "truck-capacity-groups-view": "Truck capacity groups view",
   "half-month": "Half month",
   "no-article-stock-data": "No stock information for the item",
-  "reload-translations": "Reload translations"
+  "reload-translations": "Reload translations",
+  "open-cf-inventory": "Open Cost Center Inventories",
+  "return-document": "Write-off",
+  "enter-trolley-code": "or enter the trolley code for handover",
+  "add-empty-trolley": "Add an empty trolley for handover by pressing the button in the bottom right corner"
 }

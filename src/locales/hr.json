@@ -1964,5 +1964,8 @@
   "open-cf-inventory": "Otvorene inventure MT-a",
   "return-document": "Razduživanje",
   "enter-trolley-code": "ili upišite šifru kolica za primopredaju",
-  "add-empty-trolley": "Dodajte prazna kolica za primopredaju pritiskom na gumb u donjem desnom uglu"
+  "add-empty-trolley": "Dodajte prazna kolica za primopredaju pritiskom na gumb u donjem desnom uglu",
+  "invoice": "Faktura",
+  "sales-invoice": "Faktura prodaje",
+  "accounting": "Interni obračun"
 }

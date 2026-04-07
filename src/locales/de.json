@@ -1967,5 +1967,7 @@
   "add-empty-trolley": "Fügen Sie einen leeren Wagen für die Übergabe hinzu, indem Sie auf die Schaltfläche unten rechts drücken",
   "invoice": "Rechnung",
   "sales-invoice": "Verkaufsrechnung",
-  "accounting": "Interne buchhaltung"
+  "accounting": "Interne buchhaltung",
+  "save-zero-service-price": "Dienstleistungen ohne Wert",
+  "save-zero-service-price-check": "Sind Sie sicher, dass Sie die Dienstleistungen zu einem Preis von 0,00 bestätigen möchtest?"
 }

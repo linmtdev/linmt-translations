@@ -1967,5 +1967,7 @@
   "add-empty-trolley": "Add an empty trolley for handover by pressing the button in the bottom right corner",
   "invoice": "Invoice",
   "sales-invoice": "Sale invoice",
-  "accounting": "Internal accounting"
+  "accounting": "Internal accounting",
+  "save-zero-service-price": "Services with no value",
+  "save-zero-service-price-check": "Are you sure you want to save services with 0.00 price?"
 }

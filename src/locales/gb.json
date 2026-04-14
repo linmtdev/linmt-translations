@@ -1964,6 +1964,12 @@
   "open-cf-inventory": "Open Cost Center Inventories",
   "return-document": "Write-off",
   "enter-trolley-code": "or enter the trolley code for handover",
+  "add-empty-trolley": "Add an empty trolley for handover by pressing the button in the bottom right corner"
   "add-empty-trolley": "Add an empty trolley for handover by pressing the button in the bottom right corner",
+  "invoice": "Invoice",
+  "sales-invoice": "Sale invoice",
+  "accounting": "Internal accounting",
+  "save-zero-service-price": "Services with no value",
+  "save-zero-service-price-check": "Are you sure you want to save services with 0.00 price?"
   "delete-trolley-confirmation": "Are you sure you want to remove the cart from the document?"
 }

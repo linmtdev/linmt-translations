@@ -1964,9 +1964,11 @@
   "open-cf-inventory": "Offene Inventuren der Kostenstellen",
   "return-document": "Rückbuchung",
   "enter-trolley-code": "oder geben Sie den Wagen-Code für die Übergabe ein",
-  "add-empty-trolley": "Fügen Sie einen leeren Wagen für die Übergabe hinzu, indem Sie auf die Schaltfläche unten rechts drücken"
-
   "add-empty-trolley": "Fügen Sie einen leeren Wagen für die Übergabe hinzu, indem Sie auf die Schaltfläche unten rechts drücken",
+  "invoice": "Rechnung",
+  "sales-invoice": "Verkaufsrechnung",
+  "accounting": "Interne Buchhaltung",
+  "save-zero-service-price": "Dienstleistungen ohne Wert",
+  "save-zero-service-price-check": "Sind Sie sicher, dass Sie Dienstleistungen mit einem Preis von 0,00 speichern möchten?",
   "delete-trolley-confirmation": "Möchten Sie den Warenkorb wirklich aus dem Dokument entfernen?"
-
 }

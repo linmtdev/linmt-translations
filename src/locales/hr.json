@@ -1964,12 +1964,11 @@
   "open-cf-inventory": "Otvorene inventure MT-a",
   "return-document": "Razduživanje",
   "enter-trolley-code": "ili upišite šifru kolica za primopredaju",
-  "add-empty-trolley": "Dodajte prazna kolica za primopredaju pritiskom na gumb u donjem desnom uglu"
   "add-empty-trolley": "Dodajte prazna kolica za primopredaju pritiskom na gumb u donjem desnom uglu",
   "invoice": "Faktura",
   "sales-invoice": "Faktura prodaje",
   "accounting": "Interni obračun",
   "save-zero-service-price": "Usluge bez vrijednosti",
-  "save-zero-service-price-check": "Jeste li sigurni da želite spremiti usluge s cijenom 0.00?"
+  "save-zero-service-price-check": "Jeste li sigurni da želite spremiti usluge s cijenom 0.00?",
   "delete-trolley-confirmation": "Jeste li sigurni da želite ukloniti kolica sa dokumenta?"
 }

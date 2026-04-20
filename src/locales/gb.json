@@ -1724,6 +1724,7 @@
   "trolley-list": "Trolley list",
   "trolley-list-edit-not-possible-on-document": "For document '{{firstParam}}' trolley list edit not possible!\nDocument status - '{{secondParam}}'",
   "trolley-list-for-charging-is-empty": "List of trolleys for charge is empty!",
+  "trolley-marked-as-inventory-shortage-dc-message": "Trolley {{firstParam}} recorded as inventory shortage.\nAdding to work order trolley will be removed from shortage and be recorded at the distribution center.\n\nProceed?",
   "trolley-marked-as-inventory-shortage-message": "Trolley {{firstParam}} recorded as inventory shortage.\nAdding to work order trolley will be removed from shortage and be recorded at laundry.\n\nProceed?",
   "trolley-not-linked-with-document": "Trolley {{firstParam}} are not linked to document {{secondParam}}",
   "trolley-nr-already-assigned-to-document": "Trolley nr. '{{firstParam}}' already assigned to document",
@@ -1733,6 +1734,7 @@
   "trolley-nr-written-off": "Trolley nr. '{{firstParam}}' written off",
   "trolley-number": "Trolley number",
   "trolley-number-changed-on-document": "There has been a change in the trolley numbers on the document. Please repeat the process.",
+  "trolley-on-external-location-dc-message": "Trolley {{firstParam}} recorded at location {{secondParam}}.\nAdding to work order trolley will be emptied and be recorded at the distribution center.\n\nProceed?",
   "trolley-on-external-location-message": "Trolley {{firstParam}} recorded at location {{secondParam}}.\nAdding to work order trolley will be emptied and be recorded at laundry.\n\nProceed?",
   "trolley-registration": "Trolley registration",
   "trolley-scan": "Trolley scan",
@@ -1970,5 +1972,6 @@
   "accounting": "Internal accounting",
   "save-zero-service-price": "Services with no value",
   "save-zero-service-price-check": "Are you sure you want to save services with 0.00 price?",
-  "delete-trolley-confirmation": "Are you sure you want to remove the cart from the document?"
+  "delete-trolley-confirmation": "Are you sure you want to remove the cart from the document?",
+  "unforwarded-receipts-view": "Unforwarded receipts view"
 }

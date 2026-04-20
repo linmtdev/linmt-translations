@@ -1724,6 +1724,7 @@
   "trolley-list": "Liste der Wagen",
   "trolley-list-edit-not-possible-on-document": "Die Liste der Wagen kann auf dem Dokument '{{firstParam}}' nicht bearbeitet werden!\nStatus des Dokuments – '{{secondParam}}'",
   "trolley-list-for-charging-is-empty": "Die Liste der Wagen zur Belastung ist leer!",
+  "trolley-marked-as-inventory-shortage-dc-message": "Wagen {{firstParam}} wurde als Inventurmangel registriert.\nDurch Hinzufügen zum Arbeitsauftrag wird der Wagen aus dem Mangel entfernt und im Verteilzentrum registriert.\n\nMöchten Sie fortfahren?",
   "trolley-marked-as-inventory-shortage-message": "Wagen {{firstParam}} wurde als Inventurmangel registriert.\nDurch Hinzufügen zum Arbeitsauftrag wird der Wagen aus dem Mangel entfernt und in der Wäscherei registriert.\n\nMöchten Sie fortfahren?",
   "trolley-not-linked-with-document": "Wagen {{firstParam}} ist nicht mit dem Dokument {{secondParam}} verknüpft",
   "trolley-nr-already-assigned-to-document": "Wagen Nr. '{{firstParam}}' ist bereits einem Dokument zugeordnet",
@@ -1733,6 +1734,7 @@
   "trolley-nr-written-off": "Wagen Nr. '{{firstParam}}' wurde abgeschrieben",
   "trolley-number": "Wagen-Nummer",
   "trolley-number-changed-on-document": "Die Wagennummern auf dem Dokument wurden geändert. Bitte wiederholen Sie den Vorgang.",
+  "trolley-on-external-location-dc-message": "Wagen {{firstParam}} wurde am Standort {{secondParam}} registriert.\nDurch Hinzufügen zum Arbeitsauftrag wird der Wagen geleert und im Verteilzentrum registriert.\n\nMöchten Sie fortfahren?",
   "trolley-on-external-location-message": "Wagen {{firstParam}} wurde am Standort {{secondParam}} registriert.\nDurch Hinzufügen zum Arbeitsauftrag wird der Wagen geleert und in der Wäscherei registriert.\n\nMöchten Sie fortfahren?",
   "trolley-registration": "Registrierung des Wagens",
   "trolley-scan": "Scannen des Wagens",
@@ -1970,5 +1972,6 @@
   "accounting": "Interne Buchhaltung",
   "save-zero-service-price": "Dienstleistungen ohne Wert",
   "save-zero-service-price-check": "Sind Sie sicher, dass Sie Dienstleistungen mit einem Preis von 0,00 speichern möchten?",
-  "delete-trolley-confirmation": "Möchten Sie den Warenkorb wirklich aus dem Dokument entfernen?"
+  "delete-trolley-confirmation": "Möchten Sie den Warenkorb wirklich aus dem Dokument entfernen?",
+  "unforwarded-receipts-view": "Übersicht der nicht weitergeleitete Eingängen"
 }

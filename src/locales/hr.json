@@ -692,7 +692,7 @@
   "for-zero-value-admin-permission-required": "Za vrijednost 0.00 potrebno je administratorsko ovlaštenje",
   "forbidden-access": "Zabranjen pristup",
   "forwarded-to-laundry": "Proslijeđeno u praonicu",
-  "forwarded-to-laundry-by-receipt": "Poslijeđuje u praonicu primke",
+  "forwarded-to-laundry-by-receipt": "Proslijeđuje u praonicu primke",
   "forwarded-to-laundry-with-delivery": "Proslijeđeno praonici otpremnicom",
   "forwarding": "Prosljeđivanje",
   "found": "Pronađeno",
@@ -700,7 +700,7 @@
   "found-list-chips-changed": "Promijenjen popis pronađenih čipova",
   "free-entry": "Slobodni unos",
   "friday": "Petak",
-  "from-document": "sa dokumenta",
+  "from-document": "s dokumenta",
   "from-packaging-not-in-trolley": "iz pakiranja izvan kolica",
   "from-trolley": "iz kolica",
   "full-name-max-length-50": "Ime i prezime korisnika ne smije biti duže od 50 znakova",
@@ -1724,6 +1724,7 @@
   "trolley-list": "Popis kolica",
   "trolley-list-edit-not-possible-on-document": "Dokumentu '{{firstParam}}' nije moguće uređivati popis kolica!\nStatus dokumenta - '{{secondParam}}'",
   "trolley-list-for-charging-is-empty": "Popis kolica za zaduživanje je prazan!",
+  "trolley-marked-as-inventory-shortage-dc-message": "Kolica {{firstParam}} su zabilježena kao inventurni manjak.\nDodavanjem na radni nalog kolica će biti uklonjena iz manjka i zabilježena u distributivnom centru.\n\nŽelite li nastaviti?",
   "trolley-marked-as-inventory-shortage-message": "Kolica {{firstParam}} su zabilježena kao inventurni manjak.\nDodavanjem na radni nalog kolica će biti uklonjena iz manjka i zabilježena u praonici.\n\nŽelite li nastaviti?",
   "trolley-not-linked-with-document": "Kolica {{firstParam}} nisu povezana s dokumentom {{secondParam}}",
   "trolley-nr-already-assigned-to-document": "Kolica br. '{{firstParam}}' su već pridružena dokumentu",
@@ -1733,6 +1734,7 @@
   "trolley-nr-written-off": "Kolica br. '{{firstParam}}' su rashodovana",
   "trolley-number": "Broj kolica",
   "trolley-number-changed-on-document": "Došlo je do promjene brojeva kolica na dokumentu. Molimo ponovite postupak.",
+  "trolley-on-external-location-dc-message": "Kolica {{firstParam}} su zabilježena na lokaciji {{secondParam}}.\nDodavanjem na radni nalog kolica će se isprazniti i zabilježiti u distributivnom centru.\n\nŽelite li nastaviti?",
   "trolley-on-external-location-message": "Kolica {{firstParam}} su zabilježena na lokaciji {{secondParam}}.\nDodavanjem na radni nalog kolica će se isprazniti i zabilježiti u praonici.\n\nŽelite li nastaviti?",
   "trolley-registration": "Registracija kolica",
   "trolley-scan": "Skeniranje kolica",
@@ -1970,5 +1972,6 @@
   "accounting": "Interni obračun",
   "save-zero-service-price": "Usluge bez vrijednosti",
   "save-zero-service-price-check": "Jeste li sigurni da želite spremiti usluge s cijenom 0.00?",
-  "delete-trolley-confirmation": "Jeste li sigurni da želite ukloniti kolica sa dokumenta?"
+  "delete-trolley-confirmation": "Jeste li sigurni da želite ukloniti kolica sa dokumenta?",
+  "unforwarded-receipts-view": "Pregled neproslijeđenih primki"
 }

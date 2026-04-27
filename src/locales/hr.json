@@ -1973,5 +1973,6 @@
   "save-zero-service-price": "Usluge bez vrijednosti",
   "save-zero-service-price-check": "Jeste li sigurni da želite spremiti usluge s cijenom 0.00?",
   "delete-trolley-confirmation": "Jeste li sigurni da želite ukloniti kolica sa dokumenta?",
-  "unforwarded-receipts-view": "Pregled neproslijeđenih primki"
+  "unforwarded-receipts-view": "Pregled neproslijeđenih primki",
+  "selected-truck-cannot-be-deleted-used-in-system": "Odabrani kamion nije moguće obrisati, koristi se u sustavu!"
 }

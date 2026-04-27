@@ -217,7 +217,7 @@
   "clean": "Clean",
   "clean-laundry-scan": "Clean laundry scan",
   "clean-scan": "Clean scan",
-  "clean-soiled-view": "Clean\/soiled view",
+  "clean-view": "Clean view",
   "client": "Client",
   "client-code": "Possus code",
   "client-code-required": "Possus code required",

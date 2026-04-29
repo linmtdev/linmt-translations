@@ -1974,5 +1974,6 @@
   "save-zero-service-price-check": "Sind Sie sicher, dass Sie Dienstleistungen mit einem Preis von 0,00 speichern möchten?",
   "delete-trolley-confirmation": "Möchten Sie den Warenkorb wirklich aus dem Dokument entfernen?",
   "unforwarded-receipts-view": "Übersicht der nicht weitergeleitete Eingängen",
-  "selected-truck-cannot-be-deleted-used-in-system": "Ausgewählter LKW kann nicht gelöscht werden, er wird im System verwendet!"
+  "selected-truck-cannot-be-deleted-used-in-system": "Ausgewählter LKW kann nicht gelöscht werden, er wird im System verwendet!",
+  "already-scanned-trolley": "Der Warenkorb wurde bereits gescannt."
 }

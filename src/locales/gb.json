@@ -1974,5 +1974,6 @@
   "save-zero-service-price-check": "Are you sure you want to save services with 0.00 price?",
   "delete-trolley-confirmation": "Are you sure you want to remove the cart from the document?",
   "unforwarded-receipts-view": "Unforwarded receipts view",
-  "selected-truck-cannot-be-deleted-used-in-system": "Selected truck cannot be deleted, it is used in the system!"
+  "selected-truck-cannot-be-deleted-used-in-system": "Selected truck cannot be deleted, it is used in the system!",
+  "already-scanned-trolley": "The trolley has already been scanned."
 }

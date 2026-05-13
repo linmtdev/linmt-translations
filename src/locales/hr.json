@@ -417,6 +417,7 @@
   "document-cant-be-added-to-list-documents-not-for-the-same-dc": "Nije moguće dodati dokument u listu. Odabrani dokumenti nisu namijenjeni za dostavu u isti distributivni centar.",
   "document-cant-be-added-to-list-documents-not-for-the-same-pc": "Nije moguće dodati dokument u listu. Odabrani dokumenti nisu namijenjeni za dostavu u isti profitni centar.",
   "document-cant-be-added-to-list-some-documents-not-for-laundry": "Nije moguće dodati dokument u listu. Neki od odabranih dokumenata nisu namijenjeni za dostavu u praonicu.",
+  "document-cannot-be-confirmed-without-dispatch": "Dokument se ne može zaključiti bez isporuke!",
   "document-code": "Šifra dokumenta:",
   "document-content": "Sadržaj dokumenta",
   "document-created-by": "Dokument izradio",

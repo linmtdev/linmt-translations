@@ -417,6 +417,7 @@
   "document-cant-be-added-to-list-documents-not-for-the-same-dc": "Dokument kann nicht zur Liste hinzugefügt werden. Die ausgewählten Dokumente sind nicht für die Lieferung an dasselbe Verteilzentrum bestimmt.",
   "document-cant-be-added-to-list-documents-not-for-the-same-pc": "Dokument kann nicht zur Liste hinzugefügt werden. Die ausgewählten Dokumente sind nicht für die Lieferung an dasselbe Profitcenter bestimmt.",
   "document-cant-be-added-to-list-some-documents-not-for-laundry": "Dokument kann nicht zur Liste hinzugefügt werden. Einige der ausgewählten Dokumente sind nicht für die Lieferung an die Wäscherei bestimmt.",
+  "document-cannot-be-confirmed-without-dispatch": "Dokument kann nicht bestätigt werden, ohne eine Lieferung!",
   "document-code": "Dokumenten nummer:",
   "document-content": "Inhalt des Dokuments",
   "document-created-by": "Dokument erstellt von",

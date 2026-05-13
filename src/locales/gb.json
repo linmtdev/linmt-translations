@@ -417,6 +417,7 @@
   "document-cant-be-added-to-list-documents-not-for-the-same-dc": "Unable to add document to list. The selected documents are not intended for delivery to the same distribution center.",
   "document-cant-be-added-to-list-documents-not-for-the-same-pc": "Unable to add document to list. The selected documents are not intended for delivery to the same profit center.",
   "document-cant-be-added-to-list-some-documents-not-for-laundry": "Unable to add document to list. Some of the selected documents are not intended for delivery to the laundry.",
+  "document-cannot-be-confirmed-without-dispatch": "Document cannot be confirmed without dispatch!",
   "document-code": "Document code:",
   "document-content": "Document content",
   "document-created-by": "Document created by",

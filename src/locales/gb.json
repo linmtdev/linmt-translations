@@ -1664,6 +1664,7 @@
   "show-trolley-history": "Show trolley history",
   "signature": "Sign below.",
   "signed": "Signed",
+  "signed-by-qr": "Signed by QR code",
   "signing-the-handover-with-drivers": "Signing the handover with drivers",
   "single-size-confirmation": "1 chip for setting or changing the size has been scanned.",
   "single-unknown-epc": "1 unknown chip has been scanned.",

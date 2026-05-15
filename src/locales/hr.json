@@ -573,6 +573,7 @@
   "error-occurred-document-not-in-out-document": "Došlo je do pogreške. Dokument {{firstParam}} nije ulazno/izlazni dokument",
   "error-occurred-removing-trolley-from-non-existent-document": "Došlo je do pogreške - uklanjanje kolica s nepostojećeg dokumenta",
   "error-processing-data": "Došlo je do pogreške prilikom obrade podataka. Molimo pokušajte ponovo",
+  "error-qr-code-generation-failed": "Nije moguće generirati QR kod za sadržaj: ",
   "error-registering-article-document-not-selected": "Došlo je do pogreške prilikom registracije artikala. Dokument mora biti odabran!",
   "error-removing": "Pogreška u brisanju",
   "error-saving-charge": "Dogodila se greška kod spremanja zaduženja. Pokušajte ponovno",

@@ -573,6 +573,7 @@
   "error-occurred-document-not-in-out-document": "Error. Document {{firstParam}} is not IN/OUT document",
   "error-occurred-removing-trolley-from-non-existent-document": "An error occurred - removing trolley from non existent document",
   "error-processing-data": "Error processing data. Please try again",
+  "error-qr-code-generation-failed": "Failed to generate QR code for content: ",
   "error-registering-article-document-not-selected": "Error while registering articles. Document must be selected!",
   "error-removing": "Removal error",
   "error-saving-charge": "Error while saving charge. Try again",

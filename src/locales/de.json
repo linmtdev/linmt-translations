@@ -573,6 +573,7 @@
   "error-occurred-document-not-in-out-document": "Ein Fehler ist aufgetreten. Das Dokument {{firstParam}} ist kein Eingangs-/Ausgangsdokument.",
   "error-occurred-removing-trolley-from-non-existent-document": "Ein Fehler ist aufgetreten - Entfernen eines Wagens von einem nicht existierenden Dokument",
   "error-processing-data": "Bei der Verarbeitung der Daten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+  "error-qr-code-generation-failed": "QR-Code für Inhalt konnte nicht generiert werden: ",
   "error-registering-article-document-not-selected": "Bei der Registrierung von Artikeln ist ein Fehler aufgetreten. Ein Dokument muss ausgewählt sein!",
   "error-removing": "Fehler beim Löschen",
   "error-saving-charge": "Beim Speichern der Belastung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",

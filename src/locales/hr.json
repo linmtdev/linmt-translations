@@ -902,6 +902,7 @@
   "loading-file": "Učitavanje datoteke",
   "loading-scanned-documents": "Učitavanje skeniranih dokumenata",
   "location": "Lokacija",
+  "location-rfid-stock-by-age": "Zaliha RFID artikala skladišta po starosti",
   "lock-dispatch": "Zaključi isporuku",
   "lock-dispatch-check": "Jeste li sigurni da želite zaključiti isporuku?",
   "lock-document": "Označi kao preuzet",

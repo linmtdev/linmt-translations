@@ -902,6 +902,7 @@
   "loading-file": "Loading file",
   "loading-scanned-documents": "Loading scanned documents",
   "location": "Location",
+  "location-rfid-stock-by-age": "Warehouse RFID article stock by age",
   "lock-dispatch": "Lock dispatch",
   "lock-dispatch-check": "Are you sure you want to lock the dispatch?",
   "lock-document": "Mark as received",

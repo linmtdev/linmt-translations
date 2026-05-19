@@ -902,6 +902,7 @@
   "loading-file": "Datei wird geladen",
   "loading-scanned-documents": "Gescannte Dokumente werden geladen",
   "location": "Standort",
+  "location-rfid-stock-by-age": "Lager-RFID-Artikelbestände nach Alter",
   "lock-dispatch": "Lieferung sperren",
   "lock-dispatch-check": "Sind Sie sicher, dass Sie die Lieferung sperren möchten?",
   "lock-document": "Als übernommen markieren",

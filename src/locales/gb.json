@@ -379,6 +379,7 @@
   "discount-required": "Discount required",
   "discount-type": "Discount type",
   "dispatch": "Dispatch",
+  "dispatch-already-exists-for-given-period": "Dispatch already exists for given period!",
   "dispatch-cannot-be-moved": "Dispatch can't be moved. Dispatch for given period already exists!",
   "dispatch-cannot-be-removed-check-documents": "Dispatch can't be removed. Dispatch is on document!",
   "dispatch-daily-limit-reached": "Maximum daily dispatch limit reached (4)",

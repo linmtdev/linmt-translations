@@ -379,6 +379,7 @@
   "discount-required": "Genehmigter Rabatt muss eingegeben werden",
   "discount-type": "Rabattart",
   "dispatch": "Auslieferung",
+  "dispatch-already-exists-for-given-period": "Auslieferung existiert bereits für den ausgewählten Zeitraum!",
   "dispatch-cannot-be-moved": "Die Auslieferung kann nicht verschoben werden. Eine Auslieferung im ausgewählten Zeitraum existiert bereits!",
   "dispatch-cannot-be-removed-check-documents": "Die Auslieferung kann nicht entfernt werden. Die Auslieferung befindet sich auf einem Dokument!",
   "dispatch-daily-limit-reached": "Das Tageslimit für Auslieferungen wurde erreicht (4)",

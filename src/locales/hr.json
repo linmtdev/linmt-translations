@@ -379,6 +379,7 @@
   "discount-required": "Odobreni rabat mora biti unesen",
   "discount-type": "Vrsta popusta",
   "dispatch": "Isporuka",
+  "dispatch-already-exists-for-given-period": "Isporuka već postoji za odabrani period!",
   "dispatch-cannot-be-moved": "Isporuku nije moguće prebaciti. Isporuka u odabranom periodu već postoji!",
   "dispatch-cannot-be-removed-check-documents": "Isporuku nije moće ukloniti. Isporuka se nalazi na dokumentu!",
   "dispatch-daily-limit-reached": "Dosegnut je maksimalan  isporuka u danu (4)",

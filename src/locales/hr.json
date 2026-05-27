@@ -1258,6 +1258,7 @@
   "print-invoices-with-deliveries": "Ispiši fakture i otpremnice",
   "print-invoices-with-signed-deliveries": "Ispiši fakture i potpisane otpremnice",
   "printer-ip-address": "IP adresa printera",
+  "printer-job-sent": "Zadatak ispisa poslan na pisač.",
   "printer-not-reached": "Pisač nije dostupan. Provjerite mrežnu vezu i IP adresu pisača.",
   "print-package": "Ispis naljepnica paketa",
   "print-pdf": "Ispiši PDF",

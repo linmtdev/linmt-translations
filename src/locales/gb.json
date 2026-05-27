@@ -1258,6 +1258,7 @@
   "print-invoices-with-deliveries": "Print invoices with delivery documents",
   "print-invoices-with-signed-deliveries": "Print invoices with signed delivery documents",
   "printer-ip-address": "Printer IP adress",
+  "printer-job-sent": "Print job sent to printer.",
   "printer-not-reached": "Printer could not be reached. Please check the network connection and printer IP address.",
   "print-package": "Print package stickers",
   "print-pdf": "Print PDF",

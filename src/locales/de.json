@@ -1258,6 +1258,7 @@
   "print-invoices-with-deliveries": "Rechnungen und Lieferungen drucken",
   "print-invoices-with-signed-deliveries": "Rechnungen und unterschriebene Lieferungen drucken",
   "printer-ip-address": "IP-Adresse des Druckers",
+  "printer-job-sent": "Druckauftrag wurde an den Drucker gesendet.",
   "printer-not-reached": "Drucker nicht erreichbar. Bitte Netzwerkverbindung und Drucker-IP-Adresse prüfen.",
   "print-package": "Paketaufkleber ausdrucken",
   "print-pdf": "PDF drucken",

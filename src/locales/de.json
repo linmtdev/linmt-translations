@@ -381,6 +381,7 @@
   "dispatch": "Auslieferung",
   "dispatch-already-exists-for-given-period": "Auslieferung existiert bereits für den ausgewählten Zeitraum!",
   "dispatch-cannot-be-moved": "Die Auslieferung kann nicht verschoben werden. Eine Auslieferung im ausgewählten Zeitraum existiert bereits!",
+  "document-cannot-be-confirmed-dispatch-not-dispatched": "Das Dokument kann nicht heruntergeladen werden, die Lieferung wurde nicht zugestellt!",
   "dispatch-cannot-be-removed-check-documents": "Die Auslieferung kann nicht entfernt werden. Die Auslieferung befindet sich auf einem Dokument!",
   "dispatch-daily-limit-reached": "Das Tageslimit für Auslieferungen wurde erreicht (4)",
   "dispatch-has-unfinished-documents-warning": "Die Auslieferung enthält nicht abgeschlossene Dokumente! Schließen Sie die Dokumente ab oder entfernen Sie sie von der Auslieferung und versuchen Sie es erneut.",

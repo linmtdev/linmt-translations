@@ -381,6 +381,7 @@
   "dispatch": "Dispatch",
   "dispatch-already-exists-for-given-period": "Dispatch already exists for given period!",
   "dispatch-cannot-be-moved": "Dispatch can't be moved. Dispatch for given period already exists!",
+  "document-cannot-be-confirmed-dispatch-not-dispatched": "Document cannot be confirmed. Dispatch not dispatched!",
   "dispatch-cannot-be-removed-check-documents": "Dispatch can't be removed. Dispatch is on document!",
   "dispatch-daily-limit-reached": "Maximum daily dispatch limit reached (4)",
   "dispatch-has-unfinished-documents-warning": "Dispatch has unfinished documents! Finalize or unlink the documents from dispatch then try again.",

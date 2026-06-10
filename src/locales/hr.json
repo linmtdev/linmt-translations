@@ -381,6 +381,7 @@
   "dispatch": "Isporuka",
   "dispatch-already-exists-for-given-period": "Isporuka već postoji za odabrani period!",
   "dispatch-cannot-be-moved": "Isporuku nije moguće prebaciti. Isporuka u odabranom periodu već postoji!",
+  "document-cannot-be-confirmed-dispatch-not-dispatched": "Dokument se ne može preuzeti, isporuka nije isporučena!",
   "dispatch-cannot-be-removed-check-documents": "Isporuku nije moće ukloniti. Isporuka se nalazi na dokumentu!",
   "dispatch-daily-limit-reached": "Dosegnut je maksimalan  isporuka u danu (4)",
   "dispatch-has-unfinished-documents-warning": "Isporuka sadrži ne zaključene dokumente! Zaključite ili otkačite dokumente s isporuke pa pokušajte ponovno.",

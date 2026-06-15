@@ -1503,6 +1503,7 @@
   "scanned-package-not-confirmed": "Očitani paket nije potvrđen!",
   "scanned-package-not-correctly-prepared": "Očitani paket '{{firstParam}}' nije ispravno pripremljen.",
   "scanned-package-on-finalized-document": "Očitani paket nalazi se na završenom dokumentu!",
+  "scanned-package-repackaged-and-canceled": "Očitani paket '{{firstParam}}' je prepakiran i poništen. Molimo spakirajte ostatak ručno.",
   "scanned-passed": "Prošlo skenirano",
   "scanned-rfid": "Skenirani RFID čip",
   "scanned-soiled-externally": "Skeniran kao prljav u vanjskom sustavu",

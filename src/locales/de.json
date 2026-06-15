@@ -1503,6 +1503,7 @@
   "scanned-package-not-confirmed": "Das gescannte Paket wurde nicht bestätigt!",
   "scanned-package-not-correctly-prepared": "Das gescannte Paket '{{firstParam}}' wurde nicht korrekt vorbereitet.",
   "scanned-package-on-finalized-document": "Das gescannte Paket befindet sich auf einem abgeschlossenen Dokument!",
+  "scanned-package-repackaged-and-canceled": "Das gescannte Paket '{{firstParam}}' wurde umgepackt und storniert. Bitte packen Sie die verbleibenden Artikel manuell ein.",
   "scanned-passed": "Gescanntes passiert",
   "scanned-rfid": "Gescannter RFID-Chip",
   "scanned-soiled-externally": "Extern als schmutzig gescannt",

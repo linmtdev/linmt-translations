@@ -1503,6 +1503,7 @@
   "scanned-package-not-confirmed": "Scanned package is not confirmed!",
   "scanned-package-not-correctly-prepared": "Scanned package '{{firstParam}}' not correctly prepared.",
   "scanned-package-on-finalized-document": "Scanned package is on finalized document!",
+  "scanned-package-repackaged-and-canceled": "Scanned package '{{firstParam}}' has been repackaged and canceled. Please pack the remaining items manually.",
   "scanned-passed": "Last scanned",
   "scanned-rfid": "EPC Code",
   "scanned-soiled-externally": "Scanned soiled externally",

@@ -447,7 +447,7 @@
   "document-does-not-exists": "Dokument existiert nicht",
   "document-does-not-support-received-event": "Dokument unterstützt das empfangene Ereignis nicht",
   "document-handover": "Preisgabe von Dokumenten",
-  "document-handover-label": "Anzeige und Preisgabe von unbeaufsichtigten Dokumenten",
+  "document-handover-label": "Anzeige und Preisgabe von Dokumenten",
   "document-has-changes": "Dokument hat Änderungen",
   "document-has-corrections": "Dokument hat Korrekturen",
   "document-has-linked-documents": "Dokument hat verknüpfte Dokumente",

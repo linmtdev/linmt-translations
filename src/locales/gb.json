@@ -447,7 +447,7 @@
   "document-does-not-exists": "Document does not exists",
   "document-does-not-support-received-event": "Document does not support received event",
   "document-handover": "Handover of documents",
-  "document-handover-label": "Display and handover of unclaimed documents",
+  "document-handover-label": "Display and handover of documents",
   "document-has-changes": "Document has changes",
   "document-has-corrections": "Document has corrections",
   "document-has-linked-documents": "Document has linked documents",

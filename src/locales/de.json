@@ -919,6 +919,7 @@
   "lock-period": "Zeitraum sperren",
   "lock-with-todays-date": "Mit heutigem Datum sperren",
   "locked": "Gesperrt",
+  "locked-documents": "Gesperrte Dokumente",
   "locked-document-cannot-be-removed": "Gesperrtes Dokument kann nicht gelöscht werden",
   "locked-invoice-period-cannot-be-edited": "Gesperrter Abrechnungszeitraum kann nicht aktualisiert werden",
   "locked-invoice-period-cannot-be-edited-some-invoices-are-processed": "Gesperrter Abrechnungszeitraum kann nicht aktualisiert werden, ein Teil der Rechnungen wurde bereits bearbeitet",

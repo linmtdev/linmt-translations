@@ -919,6 +919,7 @@
   "lock-period": "Zaključi period",
   "lock-with-todays-date": "Zaključi s današnjim datumom",
   "locked": "Zaključen",
+  "locked-documents": "Zaključeni dokumenti",
   "locked-document-cannot-be-removed": "Zaključani dokument nije moguće obrisati",
   "locked-invoice-period-cannot-be-edited": "Zaključani obračunski period nije moguće ažurirati",
   "locked-invoice-period-cannot-be-edited-some-invoices-are-processed": "Zaključani obračunski period nije moguće ažurirati, dio faktura je već obrađen",

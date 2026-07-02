@@ -919,6 +919,7 @@
   "lock-period": "Lock period",
   "lock-with-todays-date": "Lock with today's date",
   "locked": "Locked",
+  "locked-documents": "Locked documents",
   "locked-document-cannot-be-removed": "Locked document can't be removed",
   "locked-invoice-period-cannot-be-edited": "Locked invoice period can't be updated",
   "locked-invoice-period-cannot-be-edited-some-invoices-are-processed": "Locked invoice period can't be updated, some invoices are already processed",
